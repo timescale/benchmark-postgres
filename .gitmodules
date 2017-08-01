@@ -1,0 +1,3 @@
+[submodule "cmd/timescaledb-parallel-copy"]
+	path = cmd/timescaledb-parallel-copy
+	url = https://github.com/timescale/timescaledb-parallel-copy
