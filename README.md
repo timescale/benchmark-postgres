@@ -177,5 +177,5 @@ timescaledb-benchmark-delete --db-name=benchmark --table=cpu_pg \
 
 [timescaledb]: https://github.com/timescale/timescaledb
 [dataset]: https://timescaledata.blob.core.windows.net/datasets/benchmark_postgres.tar.bz2
-[blog]: TBD
+[blog]: https://blog.timescale.com/timescaledb-vs-6a696248104e
 [parallel copy]: https://github.com/timescale/timescaledb-parallel-copy
