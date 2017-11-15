@@ -17,8 +17,9 @@ performance [on the same data we have measured][blog].
 There are three programs available for installation under the `cmd`
 directory, each of which can be installed with `go install`:
 ```bash
-## Change to program directory
+# Change to program directory
 cd $GOPATH/src/github.com/timescale/benchmark-postgres/cmd/timescaledb-benchmark-query
+go get .
 go install
 
 # Repeat for other programs
